@@ -16,7 +16,6 @@ class main1 : AppCompatActivity() {
         enableEdgeToEdge()
         setContentView(R.layout.activity_main1)
 
-     //   val selectedItem = intent.getStringExtra("selectedItem")
 
         val textViewWeather = findViewById(R.id.textView) as TextView
 
