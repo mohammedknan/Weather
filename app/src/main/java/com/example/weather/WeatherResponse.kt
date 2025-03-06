@@ -1,12 +1,3 @@
-//package com.example.weather
-//
-//data class WeatherResponse(
-//    val name:String,
-//    val temp_f:String,
-//    val temp_c:String,
-//
-//    )
-
 package com.example.weather
 
 data class WeatherResponse(
